@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "490140415783",
+    "firebase_url": "https://pede-agora-1556236677981.firebaseio.com",
+    "project_id": "pede-agora-1556236677981",
+    "storage_bucket": "pede-agora-1556236677981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490140415783:android:5307a768c4e0ad0d",
+        "android_client_info": {
+          "package_name": "com.bastisapp.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5c_96GDDgRwlKy9GJr-hUdaKPvlhz4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490140415783:android:f6a2712202f5faf9",
+        "android_client_info": {
+          "package_name": "com.bastisapp.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5c_96GDDgRwlKy9GJr-hUdaKPvlhz4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490140415783:android:2f2649aa23ee2439",
+        "android_client_info": {
+          "package_name": "com.bastisapp.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5c_96GDDgRwlKy9GJr-hUdaKPvlhz4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490140415783-7urr1vt2r1835sglr0mvee187laq0ilg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
